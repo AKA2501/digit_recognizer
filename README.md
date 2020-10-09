@@ -17,12 +17,15 @@ then the next step involves creating the layers
 
 
 
-## Training the model had some parameters:
+## Training the data using the parameters:
 - Epoch = number of repetitions on the set of data
 - Validation split = to validate the training a fractional amount of data is specified for validation
 - Batchsize =to divide the data in a significant amount of batches
 - Verbose = to define the representation of training
 - Data and its labels were the first two ones
 
+## Testing the data using the data given
+
   
-## Testing the data on the testing set
+## How to Replicate
+` git clone https://github.com/AKA2501/digit_recognizer.git `
