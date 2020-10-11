@@ -27,5 +27,10 @@ then the next step involves creating the layers
 ## Testing the data using the data given
 
   
-## How to Replicate
+## Build Instructions
+
+Enter this command into terminal/command prompt:
 ` git clone https://github.com/AKA2501/digit_recognizer.git `
+
+## Contributions
+Anyone who's intrested can contribute to this project
