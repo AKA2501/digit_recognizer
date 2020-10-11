@@ -10,12 +10,8 @@ then the next step involves creating the layers
 - Dropout layer is used for solving the problem of overfitting as my model was facing that issue
 - Dense layer is using the softmax function here which gives us the probability here 
 
-
-
 ## The next step was compiling
 - The model using the adam compiler and the loss function as sparse_categorical_crossentropy
-
-
 
 ## Training the data using the parameters:
 - Epoch = number of repetitions on the set of data
@@ -30,7 +26,8 @@ then the next step involves creating the layers
 ## Build Instructions
 
 Enter this command into terminal/command prompt:
-` git clone https://github.com/AKA2501/digit_recognizer.git `
+
+`git clone https://github.com/AKA2501/digit_recognizer.git `
 
 ## Contributions
 Anyone who's intrested can contribute to this project
